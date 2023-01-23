@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "firstName": "Amy",
+            "department": "Software Engineer",
+            "techStack": ["JavaScript,", " React,", " Node.js"]
+        },
+        {
+            "firstName": "John",
+            "department": "DevOps Engineer",
+            "techStack": ["AWS,", " Docker,", " Kubernetes"]
+        },
+        {
+            "firstName": "Evelyn",
+            "department": "Data Scientist",
+            "techStack": ["Python,", " TensorFlow,", " Scikit-learn"]
+        }
+    ]
+}
